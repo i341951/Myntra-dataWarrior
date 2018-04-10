@@ -1,0 +1,10 @@
+var car={
+
+	"name":"Maruthi",
+	"Color":"Ray blue",
+	"blowhorn":function(){
+		//anonymous function
+		alert("beep beep");
+	}
+
+};
